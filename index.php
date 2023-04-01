@@ -8,6 +8,6 @@
 </head>
 <body>
      <h2>belajar remote</h2>
-     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe vero vitae odit!</p>
+     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe vero vitae odit!graph</p>
 </body>
 </html>
